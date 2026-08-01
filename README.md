@@ -43,16 +43,6 @@ If you encounter issues while downloading or installing, consider the following:
 - **Firewall Settings**: Ensure your firewall is not blocking the download or installation.
 - **Antivirus Software**: Temporarily disable antivirus software that may mistakenly flag the installer.
 - **Compatibility**: Verify that your operating system meets the requirements listed above.
-
-## 📞 Support
-If you have questions or need support, you can reach out through the GitHub Issues page. Provide details about your issue for the best assistance.
-
-## 📄 Contribution
-Contributions are welcome! If you have suggestions for improvements or would like to add features, please submit a Pull Request on GitHub.
-
-## 🌟 Acknowledgments
-The development of this project was supported by Saiket Systems during an internship that emphasized practical business analytics. Special thanks to the mentors and peers who provided insights and feedback.
-
 ## 🔗 More Information
 For more updates and features, you can regularly check the GitHub repository. Don't forget to keep the application updated for the latest improvements.
 
